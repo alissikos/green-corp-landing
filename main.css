@@ -48,6 +48,9 @@ header {
     justify-content: space-around;
     padding-top: 115px;
     padding-bottom: 115px;
+    background: url('img/back.png') no-repeat;
+    background-position: center;
+    background-size: cover;
   }
   .about h1 {
     font-size: 70px;
